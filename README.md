@@ -1,12 +1,13 @@
 # Awesome Graph Contrastive Learning
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![PRs Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A collection of graph contrastive learning methods.
 
 # Quick Links:
 - [InfoMax](#infomax)
 - [GNN Pre-Training](#gnn-pre-training)
+- [Others](#others)
 
 # Paper references with implementation
 
@@ -40,3 +41,23 @@ A collection of graph contrastive learning methods.
   - Authors: Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen
   - [[paper]](https://proceedings.neurips.cc/paper/2020/file/3fe230348e9a12c13120749e3f9fa4cd-Paper.pdf)
   - [[code]](https://github.com/Shen-Lab/GraphCL)
+
+
+## Others
+### 2021
+- **Graph Contrastive Learning with Adaptive Augmentation (arXiv)**
+  - Authors: Yanqiao Zhu, Yichen Xu, Feng Yu, Qiang Liu, Shu Wu, Liang Wang
+  - [[paper]](https://arxiv.org/pdf/2010.14945.pdf)
+  - [[code]](https://github.com/CRIPAC-DIG/GCA)
+
+### 2020
+- **Contrastive Multi-View Representation Learning on Graphs (ICML)**
+  - Authors: Kaveh Hassani, Amir Hosein Khasahmadi
+  - [[paper]](http://proceedings.mlr.press/v119/hassani20a/hassani20a.pdf)
+  - [[code]](https://github.com/kavehhassani/mvgrl)
+
+- - **Deep Graph Contrastive Representation Learning (ICML Workshop on GRL)**
+  - Authors: Yanqiao Zhu, Yichen Xu, Feng Yu, Qiang Liu, Shu Wu, Liang Wang
+  - [[paper]](https://arxiv.org/pdf/2006.04131.pdf)
+  - [[code]](https://github.com/CRIPAC-DIG/GRACE)
+
