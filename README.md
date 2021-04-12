@@ -6,9 +6,33 @@ A collection of graph contrastive learning methods.
 
 # Paper references with implementation
 
+## InfoMax
+### 2020
+- **Graph Representation Learning via Graphical Mutual Information Maximization (WWW)**
+  - Authors: Zhen Peng, Wenbing Huang, Minnan Luo, Qinghua Zheng, Yu Rong, Tingyang Xu, Junzhou Huang
+  - [[paper]](https://arxiv.org/pdf/2002.01169.pdf)
+  - [[code]](https://github.com/zpeng27/GMI)
+
+- **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization (ICLR)**
+  - Authors: Fan-Yun Sun, Jordan Hoffmann, Vikas Verma, Jian Tang
+  - [[paper]](https://openreview.net/pdf/af171fb8c60fa180c4dcf349ccc51ff006211216.pdf)
+  - [[code]](https://github.com/fanyun-sun/InfoGraph)
+
+### 2019
+- **Deep Graph InfoMax (ICLR)**
+  - Authors: Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, & R Devon Hjelm
+  - [[paper]](https://openreview.net/pdf?id=rklz9iAcKQ)
+  - [[code]](https://github.com/PetarV-/DGI)
+
+
 ## GNN Pre-Training
 ### 2020
-- **GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training**
-  - Jiezhong Qiu, Qibin Chen, Yuxiao Dong, Jing Zhang, Hongxia Yang, Ming Ding, Kuansan Wang, Jie Tang
+- **GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training (KDD)**
+  - Authors: Jiezhong Qiu, Qibin Chen, Yuxiao Dong, Jing Zhang, Hongxia Yang, Ming Ding, Kuansan Wang, Jie Tang
   - [[paper]](https://arxiv.org/pdf/2006.09963.pdf)
   - [[code]](https://github.com/THUDM/GCC)
+
+- **Graph Contrastive Learning with Augmentations (NeurIPS)**
+  - Authors: Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen
+  - [[paper]](https://proceedings.neurips.cc/paper/2020/file/3fe230348e9a12c13120749e3f9fa4cd-Paper.pdf)
+  - [[code]](https://github.com/Shen-Lab/GraphCL)
