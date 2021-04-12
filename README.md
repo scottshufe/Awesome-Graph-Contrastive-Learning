@@ -25,7 +25,7 @@ A collection of graph contrastive learning methods.
 
 ### 2019
 - **Deep Graph InfoMax (ICLR)**
-  - Authors: Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, & R Devon Hjelm
+  - Authors: Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm
   - [[paper]](https://openreview.net/pdf?id=rklz9iAcKQ)
   - [[code]](https://github.com/PetarV-/DGI)
 
@@ -56,7 +56,7 @@ A collection of graph contrastive learning methods.
   - [[paper]](http://proceedings.mlr.press/v119/hassani20a/hassani20a.pdf)
   - [[code]](https://github.com/kavehhassani/mvgrl)
 
-- - **Deep Graph Contrastive Representation Learning (ICML Workshop on GRL)**
+- **Deep Graph Contrastive Representation Learning (ICML Workshop on GRL)**
   - Authors: Yanqiao Zhu, Yichen Xu, Feng Yu, Qiang Liu, Shu Wu, Liang Wang
   - [[paper]](https://arxiv.org/pdf/2006.04131.pdf)
   - [[code]](https://github.com/CRIPAC-DIG/GRACE)
