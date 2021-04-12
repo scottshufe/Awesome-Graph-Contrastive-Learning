@@ -7,13 +7,13 @@ A collection of Graph Contrastive Learning methods.
 It's worth noting that many traditional unsupervised graph representation learning methods inherently follow the contrastive paradigm (e.g., DeepWalk, node2vec, GAE/VGAE etc.). We will not elaborate on them here.
 
 # Quick Links:
-- [InfoMax](#infomax)
+- [InfoMax Principle](#infomax-principle)
 - [GNN Pre-Training](#gnn-pre-training)
 - [Others](#others)
 
 # Paper references with implementation
 
-## InfoMax
+## InfoMax Principle
 ### 2020
 - **Contrastive Multi-View Representation Learning on Graphs (ICML)**
   - Authors: Kaveh Hassani, Amir Hosein Khasahmadi
