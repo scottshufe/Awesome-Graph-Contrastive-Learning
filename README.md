@@ -3,6 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A collection of Graph Contrastive Learning methods.
+
 It's worth noting that many traditional unsupervised graph representation learning methods inherently follow the contrastive paradigm (e.g., DeepWalk, node2vec, GAE/VGAE etc.). We will not elaborate on them here.
 
 # Quick Links:
