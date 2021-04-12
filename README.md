@@ -1,8 +1,12 @@
 # Awesome Graph Contrastive Learning
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A collection of graph contrastive learning methods.
+
+# Quick Links:
+- [InfoMax](#infomax)
+- [GNN Pre-Training](#gnn-pre-training)
 
 # Paper references with implementation
 
