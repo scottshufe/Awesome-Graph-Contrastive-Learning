@@ -13,6 +13,11 @@ A collection of graph contrastive learning methods.
 
 ## InfoMax
 ### 2020
+- **Contrastive Multi-View Representation Learning on Graphs (ICML)**
+  - Authors: Kaveh Hassani, Amir Hosein Khasahmadi
+  - [[paper]](http://proceedings.mlr.press/v119/hassani20a/hassani20a.pdf)
+  - [[code]](https://github.com/kavehhassani/mvgrl)
+
 - **Graph Representation Learning via Graphical Mutual Information Maximization (WWW)**
   - Authors: Zhen Peng, Wenbing Huang, Minnan Luo, Qinghua Zheng, Yu Rong, Tingyang Xu, Junzhou Huang
   - [[paper]](https://arxiv.org/pdf/2002.01169.pdf)
@@ -51,11 +56,6 @@ A collection of graph contrastive learning methods.
   - [[code]](https://github.com/CRIPAC-DIG/GCA)
 
 ### 2020
-- **Contrastive Multi-View Representation Learning on Graphs (ICML)**
-  - Authors: Kaveh Hassani, Amir Hosein Khasahmadi
-  - [[paper]](http://proceedings.mlr.press/v119/hassani20a/hassani20a.pdf)
-  - [[code]](https://github.com/kavehhassani/mvgrl)
-
 - **Deep Graph Contrastive Representation Learning (ICML Workshop on GRL)**
   - Authors: Yanqiao Zhu, Yichen Xu, Feng Yu, Qiang Liu, Shu Wu, Liang Wang
   - [[paper]](https://arxiv.org/pdf/2006.04131.pdf)
