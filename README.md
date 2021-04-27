@@ -63,3 +63,8 @@ It's worth noting that many traditional unsupervised graph representation learni
   - [[paper]](https://arxiv.org/pdf/2006.04131.pdf)
   - [[code]](https://github.com/CRIPAC-DIG/GRACE)
 
+### 2020
+- **Sub-graph Contrast for Scalable Self-Supervised Graph Representaion Learning**
+  - Authors: Yizhu Jiao, Yun Xiong, Jiawei Zhang, Yao Zhang, Tianqi Zhang, Yangyong Zhu
+  - [[paper]](https://arxiv.org/pdf/2009.10273.pdf)
+  - [[code]](https://github.com/yzjiao/Subg-Con)
