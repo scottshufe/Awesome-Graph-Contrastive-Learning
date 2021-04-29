@@ -14,6 +14,12 @@ It's worth noting that many traditional unsupervised graph representation learni
 # Paper references with implementation
 
 ## InfoMax Principle
+### 2021
+- **Bipartite Graph Embedding via Mutual Information Maximization (WSDM)**
+  - Authors: Jiangxia Cao, Xixun Lin, Shu Guo, Luchen Liu, Tingwen Liu, Bin Wang
+  - [[paper]](https://arxiv.org/abs/2012.05442)
+  - [[code]](https://github.com/caojiangxia/BiGI)
+
 ### 2020
 - **Contrastive Multi-View Representation Learning on Graphs (ICML)**
   - Authors: Kaveh Hassani, Amir Hosein Khasahmadi
@@ -56,11 +62,6 @@ It's worth noting that many traditional unsupervised graph representation learni
   - Authors: Yanqiao Zhu, Yichen Xu, Feng Yu, Qiang Liu, Shu Wu, Liang Wang
   - [[paper]](https://arxiv.org/pdf/2010.14945.pdf)
   - [[code]](https://github.com/CRIPAC-DIG/GCA)
-
-- **Bipartite Graph Embedding via Mutual Information Maximization (WSDM)**
-  - Authors: Jiangxia Cao, Xixun Lin, Shu Guo, Luchen Liu, Tingwen Liu, Bin Wang
-  - [[paper]](https://arxiv.org/abs/2012.05442)
-  - [[code]](https://github.com/caojiangxia/BiGI)
 
 ### 2020
 - **Deep Graph Contrastive Representation Learning (ICML Workshop on GRL)**
