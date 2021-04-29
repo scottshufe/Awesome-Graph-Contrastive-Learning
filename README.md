@@ -36,6 +36,10 @@ It's worth noting that many traditional unsupervised graph representation learni
   - [[paper]](https://openreview.net/pdf/af171fb8c60fa180c4dcf349ccc51ff006211216.pdf)
   - [[code]](https://github.com/fanyun-sun/InfoGraph)
 
+- **CommDGI: Community Detection Oriented Deep Graph Infomax (CIKM)**
+  - Authors: Tianqi Zhang, Yun Xiong, Jiawei Zhang, Yao Zhang, Yizhu Jiao, Yangyong Zhu
+  - [[paper]](https://yzjiao.github.io/CommDGI/paper.pdf)
+
 ### 2019
 - **Deep Graph InfoMax (ICLR)**
   - Authors: Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm
