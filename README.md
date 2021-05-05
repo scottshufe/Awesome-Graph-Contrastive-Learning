@@ -62,7 +62,7 @@ It's worth noting that many traditional unsupervised graph representation learni
 
 ## Others
 ### 2021
-- **Graph Contrastive Learning with Adaptive Augmentation (arXiv)**
+- **Graph Contrastive Learning with Adaptive Augmentation (WWW)**
   - Authors: Yanqiao Zhu, Yichen Xu, Feng Yu, Qiang Liu, Shu Wu, Liang Wang
   - [[paper]](https://arxiv.org/pdf/2010.14945.pdf)
   - [[code]](https://github.com/CRIPAC-DIG/GCA)
