@@ -75,7 +75,7 @@ It's worth noting that many traditional unsupervised graph representation learni
   - [[paper]](https://arxiv.org/pdf/2010.14945.pdf)
   - [[code]](https://github.com/CRIPAC-DIG/GCA)
   
-- **Motif-Driven Contrastive Learning of Graph Representations (OPENREVIEW)**
+- **Motif-Driven Contrastive Learning of Graph Representations (arXiv)**
   - Authors: Shichang Zhang, Ziniu Hu, Arjun Subramonian, Yizhou Sun
   - [[paper]](https://openreview.net/pdf?id=qcKh_Msv1GP)
 
