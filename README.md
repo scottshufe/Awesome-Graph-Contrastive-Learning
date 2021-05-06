@@ -55,7 +55,7 @@ It's worth noting that many traditional unsupervised graph representation learni
   - [[code]](https://github.com/PetarV-/DGI)
 
 - **Spatio-Temporal Deep Graph InfoMax (ICLR workshp @ RLGM)**
-  - Authors: Felix L. Opolka*, Aaron Solomon*, Cătălina Cangea, Petar Veličković, Pietro Liò, R Devon Hjelm
+  - Authors: Felix L. Opolka, Aaron Solomon, Cătălina Cangea, Petar Veličković, Pietro Liò, R Devon Hjelm
   - [[paper]](https://rlgm.github.io/papers/48.pdf)
 
 
