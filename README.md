@@ -20,6 +20,14 @@ It's worth noting that many traditional unsupervised graph representation learni
   - [[paper]](https://arxiv.org/abs/2012.05442)
   - [[code]](https://github.com/caojiangxia/BiGI)
 
+- **SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism (WWW)**
+  - [[paper]](https://arxiv.org/pdf/2101.08170.pdf)
+  - [[code]](https://github.com/RingBDStack/SUGAR)
+
+- **Graph Representation Learning by Ensemble Aggregating Subgraphs via Mutual Information Maximization (arXiv)**
+  - Authors: Chenguang Wang, Ziwen Liu
+  - [[paper]](https://arxiv.org/pdf/2103.13125.pdf)
+
 ### 2020
 - **Contrastive Multi-View Representation Learning on Graphs (ICML)**
   - Authors: Kaveh Hassani, Amir Hosein Khasahmadi
