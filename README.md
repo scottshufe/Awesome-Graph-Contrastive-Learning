@@ -48,6 +48,20 @@ It's worth noting that many traditional unsupervised graph representation learni
   - Authors: Tianqi Zhang, Yun Xiong, Jiawei Zhang, Yao Zhang, Yizhu Jiao, Yangyong Zhu
   - [[paper]](https://yzjiao.github.io/CommDGI/paper.pdf)
 
+- **Exploiting Mutual Information for Substructure-aware Graph Representation Learning (IJCAI)**
+- Authors: Pengyang Wang, Yanjie Fu, Yuanchun Zhou, Kunpeng Liu, Xiaolin Li, Kien Hua
+- [[paper]](https://dsg.cs.ucf.edu/wp-content/uploads/2020/06/IJCAI20_CAMERA_READY.pdf)
+
+- **Attributed Network Embedding based on Mutual Information
+Estimation (CIKM)**
+- Authors: Xiaomin Liang, Daifeng Li, Andrew Madden
+- [[paper]](https://dl.acm.org/doi/10.1145/3340531.3412008)
+- [[code]](https://github.com/lxm36/infomaxANE)
+
+- **Graph Contrastive Learning with Local and Global Mutual Information Maximization (ICIT)**
+- Authors: Yifei Hu, Ya Zhang
+- [[paper]](https://dl.acm.org/doi/10.1145/3446999.3447013)
+
 ### 2019
 - **Deep Graph InfoMax (ICLR)**
   - Authors: Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm
