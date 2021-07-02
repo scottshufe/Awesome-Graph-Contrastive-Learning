@@ -18,7 +18,7 @@ It's worth noting that many traditional unsupervised graph representation learni
 ### 2021
 - **An Empirical Study of Graph Contrastive Learning (OpenReview)**
   - Authors: Yanqiao Zhu, Yichen Xu, Qiang Liu, Shu Wu
-  - [[paper]]()
+  - [[paper]](https://openreview.net/forum?id=fYxEnpY-__G)
   - [[code]](https://github.com/GraphCL/PyGCL)
 
 ## InfoMax Principle
