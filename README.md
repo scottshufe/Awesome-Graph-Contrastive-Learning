@@ -7,11 +7,19 @@ A collection of Graph Contrastive Learning methods.
 It's worth noting that many traditional unsupervised graph representation learning methods inherently follow the contrastive paradigm (e.g., DeepWalk, node2vec, GAE/VGAE etc.). We will not elaborate on them here.
 
 # Quick Links:
+- [Empirical Study](#empirical-study)
 - [InfoMax Principle](#infomax-principle)
 - [GNN Pre-Training](#gnn-pre-training)
 - [Others](#others)
 
 # Paper references with implementation
+
+## Empirical Study
+### 2021
+- **An Empirical Study of Graph Contrastive Learning (OpenReview)**
+  - Authors: Yanqiao Zhu, Yichen Xu, Qiang Liu, Shu Wu
+  - [[paper]]()
+  - [[code]](https://github.com/GraphCL/PyGCL)
 
 ## InfoMax Principle
 ### 2021
@@ -96,6 +104,11 @@ Estimation (CIKM)**
 - **Motif-Driven Contrastive Learning of Graph Representations (arXiv)**
   - Authors: Shichang Zhang, Ziniu Hu, Arjun Subramonian, Yizhou Sun
   - [[paper]](https://openreview.net/pdf?id=qcKh_Msv1GP)
+
+- **Graph Contrastive Learning Automated (ICML)**
+  - Authors: Yuning You, Tianlong Chen, Yang Shen, Zhangyang Wang
+  - [[paper]](https://arxiv.org/abs/2106.07594)
+  - [[code]](https://github.com/Shen-Lab/GraphCL_Automated)
 
 ### 2020
 - **Deep Graph Contrastive Representation Learning (ICML Workshop on GRL)**
