@@ -21,6 +21,11 @@ It's worth noting that many traditional unsupervised graph representation learni
   - [[paper]](https://openreview.net/forum?id=fYxEnpY-__G)
   - [[code]](https://github.com/GraphCL/PyGCL)
 
+- **Evaluating Modules in Graph Contrastive Learning (arXiv)**
+  - Authors: Ganqu Cui, Yufeng Du, Cheng Yang, Jie Zhou, Liang Xu, Lifeng Wang, Zhiyuan Liu
+  - [[paper]](https://arxiv.org/abs/2106.08171)
+  - [[code]](https://github.com/thunlp/OpenGCL)
+
 ## InfoMax Principle
 ### 2021
 - **Bipartite Graph Embedding via Mutual Information Maximization (WSDM)**
@@ -35,6 +40,10 @@ It's worth noting that many traditional unsupervised graph representation learni
 - **Graph Representation Learning by Ensemble Aggregating Subgraphs via Mutual Information Maximization (arXiv)**
   - Authors: Chenguang Wang, Ziwen Liu
   - [[paper]](https://arxiv.org/pdf/2103.13125.pdf)
+
+- **Maximizing Mutual Information Across Feature and Topology Views for Learning Graph Representations (arXiv)**
+  - Authors: Xiaolong Fan, Maoguo Gong, Yue Wu, Hao Li
+  - [[paper]](https://arxiv.org/abs/2105.06715)
 
 ### 2020
 - **Contrastive Multi-View Representation Learning on Graphs (ICML)**
@@ -109,6 +118,27 @@ Estimation (CIKM)**
   - Authors: Yuning You, Tianlong Chen, Yang Shen, Zhangyang Wang
   - [[paper]](https://arxiv.org/abs/2106.07594)
   - [[code]](https://github.com/Shen-Lab/GraphCL_Automated)
+
+- **Adversarial Graph Augmentation to Improve Graph Contrastive Learning (arXiv)**
+  - Authors: Susheel Suresh, Pan Li, Cong Hao, Jennifer Neville
+  - [[paper]](https://arxiv.org/abs/2106.05819)
+  - [[code]](https://github.com/susheels/adgcl)
+
+- **Fairness-Aware Node Representation Learning (arXiv)**
+  - Authors: Öykü Deniz Köse, Yanning Shen
+  - [[paper]](https://arxiv.org/pdf/2106.05391.pdf)
+  
+- **Towards Domain-Agnostic Contrastive Learning (ICML)**
+  - Authors: Vikas Verma, Minh-Thang Luong, Kenji Kawaguchi, Hieu Pham, Quoc V. Le
+  - [[paper]](http://proceedings.mlr.press/v139/verma21a/verma21a.pdf)
+
+- **Multi-view Graph Contrastive Representation Learning for Drug-Drug Interaction Prediction (WWW)**
+  - Authors: Yingheng Wang, Yaosen Min, Xin Chen, Ji Wu
+  - [[paper]](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449786)
+
+- **Contrastive Self-supervised Learning for Graph Classification (AAAI)**
+  - Authors: Jiaqi Zeng, Pengtao Xie
+  - [[paper]](https://arxiv.org/abs/2009.05923)
 
 ### 2020
 - **Deep Graph Contrastive Representation Learning (ICML Workshop on GRL)**
