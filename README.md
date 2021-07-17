@@ -79,6 +79,11 @@ Estimation (CIKM)**
   - Authors: Yifei Hu, Ya Zhang
   - [[paper]](https://dl.acm.org/doi/10.1145/3446999.3447013)
 
+- **Unsupervised Attributed Multiplex Network Embedding (AAAI)**
+  - Authors: Chanyoung Park, Donghyun Kim, Jiawei Han, Hwanjo Yu
+  - [[paper]](https://arxiv.org/abs/1911.06750)
+  - [[code]](https://github.com/pcy1302/DMGI)
+
 ### 2019
 - **Deep Graph InfoMax (ICLR)**
   - Authors: Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm
