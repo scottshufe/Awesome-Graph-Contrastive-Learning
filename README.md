@@ -10,6 +10,7 @@ It's worth noting that many traditional unsupervised graph representation learni
 - [Empirical Study](#empirical-study)
 - [InfoMax Principle](#infomax-principle)
 - [GNN Pre-Training](#gnn-pre-training)
+- [Graph Augmentation](#graph-augmentation)
 - [Others](#others)
 
 # Paper references with implementation
@@ -108,26 +109,42 @@ Estimation (CIKM)**
   - [[code]](https://github.com/Shen-Lab/GraphCL)
 
 
-## Others
+## Graph Augmentation
 ### 2021
 - **Graph Contrastive Learning with Adaptive Augmentation (WWW)**
   - Authors: Yanqiao Zhu, Yichen Xu, Feng Yu, Qiang Liu, Shu Wu, Liang Wang
   - [[paper]](https://arxiv.org/pdf/2010.14945.pdf)
   - [[code]](https://github.com/CRIPAC-DIG/GCA)
-  
-- **Motif-Driven Contrastive Learning of Graph Representations (arXiv)**
-  - Authors: Shichang Zhang, Ziniu Hu, Arjun Subramonian, Yizhou Sun
-  - [[paper]](https://openreview.net/pdf?id=qcKh_Msv1GP)
 
 - **Graph Contrastive Learning Automated (ICML)**
   - Authors: Yuning You, Tianlong Chen, Yang Shen, Zhangyang Wang
   - [[paper]](https://arxiv.org/abs/2106.07594)
   - [[code]](https://github.com/Shen-Lab/GraphCL_Automated)
 
-- **Adversarial Graph Augmentation to Improve Graph Contrastive Learning (arXiv)**
+- **Adversarial Graph Augmentation to Improve Graph Contrastive Learning (NIPS)**
   - Authors: Susheel Suresh, Pan Li, Cong Hao, Jennifer Neville
   - [[paper]](https://arxiv.org/abs/2106.05819)
   - [[code]](https://github.com/susheels/adgcl)
+
+## Others
+### 2021
+- **Directed Graph Contrastive Learning (NIPS)**
+  - Authors: Zekun Tong, Yuxuan Liang, Henghui Ding, Yongxing Dai, Xinke Li, Changhu Wang
+  - [[paper]](https://openreview.net/pdf?id=s6JD_xBS31)
+  - [[code]](https://github.com/flyingtango/DiGCL)
+
+- **InfoGCL: Information-Aware Graph Contrastive Learning (NIPS)**
+  - Authors: Dongkuan Xu, Wei Cheng, Dongsheng Luo, Haifeng Chen, Xiang Zhang
+  - [[paper]](https://openreview.net/pdf?id=519VBzfEaKW)
+
+- **Graph Adversarial Self-Supervised Learning  (NIPS)**
+  - Authors: Longqi Yang, Liangliang Zhang, Wenjing Yang
+  - [[paper]](https://openreview.net/pdf?id=nVwJse40s1)
+  - [[code]](https://github.com/LuckyZebra/GASSL)
+
+- **Motif-Driven Contrastive Learning of Graph Representations (arXiv)**
+  - Authors: Shichang Zhang, Ziniu Hu, Arjun Subramonian, Yizhou Sun
+  - [[paper]](https://openreview.net/pdf?id=qcKh_Msv1GP)
 
 - **Fairness-Aware Node Representation Learning (arXiv)**
   - Authors: Öykü Deniz Köse, Yanning Shen
