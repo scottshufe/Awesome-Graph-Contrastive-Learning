@@ -110,7 +110,14 @@ Estimation (CIKM)**
 
 
 ## Graph Augmentation
+### 2022
+- **AutoGCL: Automated Graph Contrastive Learning via Learnable View Generators (AAAI)**
+  - Authors: Yihang Yin, Qingzhong Wang, Siyu Huang, Haoyi Xiong, Xiang Zhang
+  - [[paper]](https://arxiv.org/pdf/2109.10259.pdf)
+  - [[code]](https://github.com/Somedaywilldo/AutoGCL)
+
 ### 2021
+
 - **Graph Contrastive Learning with Adaptive Augmentation (WWW)**
   - Authors: Yanqiao Zhu, Yichen Xu, Feng Yu, Qiang Liu, Shu Wu, Liang Wang
   - [[paper]](https://arxiv.org/pdf/2010.14945.pdf)
@@ -125,6 +132,15 @@ Estimation (CIKM)**
   - Authors: Susheel Suresh, Pan Li, Cong Hao, Jennifer Neville
   - [[paper]](https://arxiv.org/abs/2106.05819)
   - [[code]](https://github.com/susheels/adgcl)
+  
+- **Self-Supervised Graph Learning with Proximity-based Views and Channel Contrast (arXiv)**
+  - Authors: Wei Zhuo, Guang Tan
+  - [[paper]](https://arxiv.org/pdf/2106.03723.pdf)
+
+- **Jointly Learnable Data Augmentations for Self-Supervised GNNs (arXiv)**
+  - Authors: Zekarias T. Kefato, Sarunas Girdzijauskas, Hannes Stärk
+  - [[paper]](https://arxiv.org/pdf/2108.10420.pdf)
+  - [[code]](https://github.com/zekarias-tilahun/graph-surgeon)
 
 ## Others
 ### 2021
