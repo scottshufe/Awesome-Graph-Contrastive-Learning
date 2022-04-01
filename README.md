@@ -111,6 +111,10 @@ Estimation (CIKM)**
 
 ## Graph Augmentation
 ### 2022
+- **Augmentations in Graph Contrastive Learning: Current Methodological Flaws & Towards Better Practices (WWW)**
+  - Authors: Puja Trivedi, Ekdeep Singh Lubana, Yujun Yan, Yaoqing Yang, Danai Koutra
+  - [[paper]](https://arxiv.org/pdf/2111.03220.pdf)
+
 - **AutoGCL: Automated Graph Contrastive Learning via Learnable View Generators (AAAI)**
   - Authors: Yihang Yin, Qingzhong Wang, Siyu Huang, Haoyi Xiong, Xiang Zhang
   - [[paper]](https://arxiv.org/pdf/2109.10259.pdf)
